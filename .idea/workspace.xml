@@ -5,57 +5,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f809ad2-9fde-4a69-86d7-108aa0a5f5ef" name="Default Changelist" comment="adjust structure">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
-    <list id="c085f6fb-4564-4836-b0dc-a242e924f4d1" name="adjust structure" comment="" />
-    <list id="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" name="init detect" comment="init detect">
-      <change afterPath="$PROJECT_DIR$/yolov3/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/coco.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/coco128.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/fish.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/fish.names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/hyp.finetune.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/hyp.scratch.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/scripts/get_coco.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/scripts/get_voc.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/data/voc.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/hubconf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/common.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/experimental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/export.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/yolo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/yolov3-spp.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/yolov3-tiny.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/models/yolov3.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/tutorial.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/activations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/autoanchor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/datasets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/draw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/general.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/google_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/metrics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/plots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/utils/torch_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yolov3/weights/download_weights.sh" afterDir="false" />
+    <list default="true" id="8d0a97da-3fbb-4ad6-aee3-a60c8a99eda4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov3/weights/download_weights.sh" beforeDir="false" />
     </list>
-    <list id="20ebdebf-1bf2-4721-b133-1a8d9e31fb1b" name="update structure" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,32 +37,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="ca42396b-ff11-419e-a871-e446398fb8c7" />
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/.idea/workspace.xml">
-      <ranges>
-        <range start1="7" end1="8" start2="7" end2="58" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="32" end1="33" start2="82" end2="83" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="35" end1="35" start2="85" end2="111" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="43" end1="43" start2="119" end2="120" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="44" end1="46" start2="121" end2="123" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="143" end1="143" start2="220" end2="223" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="155" end1="156" start2="235" end2="241" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="164" end1="165" start2="249" end2="299" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="189" end1="189" start2="323" end2="327" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="191" end1="192" start2="329" end2="333" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="194" end1="195" start2="335" end2="340" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="197" end1="198" start2="342" end2="343" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="202" end1="203" start2="347" end2="348" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="205" end1="207" start2="350" end2="352" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="209" end1="210" start2="354" end2="355" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="242" end1="243" start2="387" end2="388" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="245" end1="247" start2="390" end2="396" changelist="2f809ad2-9fde-4a69-86d7-108aa0a5f5ef" />
-        <range start1="249" end1="251" start2="398" end2="400" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="253" end1="255" start2="402" end2="404" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-        <range start1="257" end1="258" start2="406" end2="407" changelist="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1ljjTFg34bxm3Ldlzwxi2v4sx6y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -143,7 +71,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov3/detect.py" />
-      <option name="PARAMETERS" value="--weights runs\train\exp18\weights\last.pt" />
+      <option name="PARAMETERS" value="--weights weights\last.pt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -165,7 +93,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov3/detector.py" />
-      <option name="PARAMETERS" value="--weights runs\train\exp18\weights\last.pt" />
+      <option name="PARAMETERS" value="--weights weights\last.pt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -202,8 +130,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.detect" />
         <item itemvalue="Python.detector" />
+        <item itemvalue="Python.detect" />
         <item itemvalue="Python.yolov3_deepsort" />
       </list>
     </recent_temporary>
@@ -217,10 +145,10 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f809ad2-9fde-4a69-86d7-108aa0a5f5ef" name="Default Changelist" comment="" />
-      <changelist id="c085f6fb-4564-4836-b0dc-a242e924f4d1" name="adjust structure" comment="" />
-      <changelist id="20ebdebf-1bf2-4721-b133-1a8d9e31fb1b" name="update structure" comment="" />
-      <changelist id="ac58df48-1589-4f8d-a2c3-357bf5ae28b9" name="init detect" comment="" />
+      <changelist id="" name="Default Changelist" comment="" />
+      <changelist id="" name="adjust structure" comment="" />
+      <changelist id="" name="update structure" comment="" />
+      <changelist id="" name="init detect" comment="" />
       <created>1608117400255</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -239,7 +167,7 @@
       <workItem from="1608194593619" duration="165000" />
       <workItem from="1608194769042" duration="375000" />
       <workItem from="1608195152452" duration="1101000" />
-      <workItem from="1608196263059" duration="16000" />
+      <workItem from="1608196263059" duration="1632000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1608186872496</created>
@@ -297,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608195202434</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init">
+      <created>1608196303283</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608196303283</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init">
+      <created>1608196320286</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608196320286</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,21 +269,22 @@
       <path value="$PROJECT_DIR$/yolov3" />
     </ignored-roots>
     <MESSAGE value="Detect and Track for fish" />
-    <MESSAGE value="init" />
     <MESSAGE value="update structure" />
     <MESSAGE value="adjust structure" />
     <MESSAGE value="init detect" />
-    <option name="LAST_COMMIT_MESSAGE" value="init detect" />
+    <MESSAGE value="init detector" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="748" y="306" key="#Web_Browsers" timestamp="1608190718341">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="748" y="306" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1608190718341" />
-    <state x="275" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608190675178">
+    <state x="275" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608196531490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="275" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608190675178" />
+    <state x="275" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608196531490" />
     <state x="705" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608118400747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -354,22 +297,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608191020360" />
-    <state width="938" height="322" key="GridCell.Tab.0.bottom" timestamp="1608186290838">
+    <state width="938" height="322" key="GridCell.Tab.0.bottom" timestamp="1608206350642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608186290838" />
-    <state width="938" height="322" key="GridCell.Tab.0.center" timestamp="1608186290838">
+    <state width="938" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608206350642" />
+    <state width="938" height="322" key="GridCell.Tab.0.center" timestamp="1608206350642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="322" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608186290838" />
-    <state width="938" height="322" key="GridCell.Tab.0.left" timestamp="1608186290838">
+    <state width="938" height="322" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608206350642" />
+    <state width="938" height="322" key="GridCell.Tab.0.left" timestamp="1608206350642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="322" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608186290838" />
-    <state width="938" height="322" key="GridCell.Tab.0.right" timestamp="1608186290838">
+    <state width="938" height="322" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608206350642" />
+    <state width="938" height="322" key="GridCell.Tab.0.right" timestamp="1608206350642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608186290838" />
+    <state width="938" height="322" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608206350642" />
     <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1608181790234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -394,10 +337,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="432" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608196101562" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608195221653">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608206371179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608195221653" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608206371179" />
     <state x="763" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608193027951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -437,9 +380,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/yolo$detector.coverage" NAME="detector Coverage Results" MODIFIED="1608178712025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
     <SUITE FILE_PATH="coverage/yolo$yolov3_deepsort.coverage" NAME="yolov3_deepsort Coverage Results" MODIFIED="1608178753999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FishTracker$detect.coverage" NAME="detect Coverage Results" MODIFIED="1608185137113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
+    <SUITE FILE_PATH="coverage/FishTracker$detect.coverage" NAME="detect Coverage Results" MODIFIED="1608196511854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
     <SUITE FILE_PATH="coverage/FishTracker$yolov3_deepsort.coverage" NAME="yolov3_deepsort Coverage Results" MODIFIED="1608184738036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FishTracker$detector.coverage" NAME="detector Coverage Results" MODIFIED="1608184847458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
+    <SUITE FILE_PATH="coverage/FishTracker$detector.coverage" NAME="detector Coverage Results" MODIFIED="1608206350626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
     <SUITE FILE_PATH="coverage/yolo$detect.coverage" NAME="detect Coverage Results" MODIFIED="1608127506784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolov3" />
   </component>
 </project>

@@ -8,6 +8,7 @@ wandb/
 
 
 # Files
+*.bank
 *.weights
 *.t7
 *.mp4
