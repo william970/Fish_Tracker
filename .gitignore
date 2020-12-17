@@ -1,6 +1,9 @@
 # Folders
 __pycache__/
 build/
+detector/
+runs/
+wandb/
 *.egg-info
 
 
@@ -10,3 +13,4 @@ build/
 *.mp4
 *.avi
 *.so
+*.pt
