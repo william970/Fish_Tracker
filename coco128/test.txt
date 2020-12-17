@@ -1,0 +1,4 @@
+I:\track\yolo\coco128\images\32.jpg
+I:\track\yolo\coco128\images\33.jpg
+I:\track\yolo\coco128\images\38.jpg
+I:\track\yolo\coco128\images\47.jpg
